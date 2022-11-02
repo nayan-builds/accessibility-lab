@@ -13,7 +13,10 @@ footer {
 }
 #logo {
   text-align: center;
-  color: #fff;
+}
+
+#logo > a{
+  color:#fff;
 }
 header {
   background-color: #263248;
