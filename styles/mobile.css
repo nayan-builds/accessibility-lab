@@ -15,9 +15,11 @@ footer {
   text-align: center;
 }
 
-#logo > a{
-  color:#fff;
-}
+header h1 a {
+  color: #fff;
+  text-decoration: none;
+ }
+ 
 header {
   background-color: #263248;
 }
